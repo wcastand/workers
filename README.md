@@ -1,13 +1,14 @@
 # workers
+
 Exercices
 
-## Install 
+## Install
 
 `yarn`
 
 ## Usage
 
-`yarn start`
+`yarn build && yarn start`
 
 or for dev mode
 
